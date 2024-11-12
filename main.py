@@ -4,9 +4,6 @@ from bs4 import BeautifulSoup
 import json
 import random
 
-from pathlib import Path
-path = Path.cwd()
-print(path)
 
 username = "your_opensky_username"
 pw = "your_opensky_password"
